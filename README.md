@@ -1,1 +1,1 @@
-# Divisible-Sum-Pairs-ALGO
+# Divisible-Sum-Pairs-ALGO.This program counts the number of pairs in the list ar whose elements sum to a number divisible by k. It uses a nested loop to check all unique pairs (i, j) where i < j and increments a counter if the sum of the pair is divisible by k.
